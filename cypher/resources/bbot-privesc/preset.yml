@@ -1,0 +1,5 @@
+description: System Info Recon Scan
+module_dirs:
+  - .
+modules:
+  - systeminfo_enum
